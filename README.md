@@ -41,7 +41,7 @@ Unsupervised learning uses **unlabeled data** to find patterns and relationships
 
 ### 2. Dimensionality Reduction
 
-- **PCA (Principal Component Analysis)* – [PCA Repo]
+- **PCA (Principal Component Analysis)* – [PCA Repo](https://github.com/madhumitha781/plant-pridiction-based-on-image)
 
 ### 3. Associate rull 
 - **Apriori Algorithm** - [Apriori Algorithm Repo](https://github.com/madhumitha781/shopping-analysis)

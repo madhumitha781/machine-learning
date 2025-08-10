@@ -14,7 +14,7 @@ Supervised learning uses labeled data to train models for predictions. It is div
 - **Decision Trees** – [Decision Tree Repo](https://github.com/madhumitha781/Decision-tree-ML-modal)  
 - **Random Forest** – [Random Forest Repo](https://github.com/madhumitha781/crop-fertilizer-prediction)  
 - **SVM (Support Vector Machines)** – [SVM Repo](https://github.com/madhumitha781/legal-app)  
-- **KNN (K-Nearest Neighbors)** – [KNN Repo] (https://github.com/madhumitha781/salary-pridiction-app) 
+- **KNN (K-Nearest Neighbors)** – [KNN Repo](https://github.com/madhumitha781/salary-pridiction-app). 
 - **Logistic Regression** – [Logistic Regression Repo]  
 - **Naive Bayes** – [Naive Bayes Repo]  
 

@@ -37,7 +37,7 @@ Unsupervised learning uses **unlabeled data** to find patterns and relationships
 
 - **K-Means** – [K-Means Repo](https://github.com/madhumitha781/airline-cost-and-time-priction-app) 
 - **Hierarchical Clustering** – [Hierarchical Clustering Repo]
-- **DBSCAN** – [DBSCAN Repo]
+- **DBSCAN** – [DBSCAN Repo](https://github.com/madhumitha781/drugs-dosage-provider)
 
 ### 2. Dimensionality Reduction
 

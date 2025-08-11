@@ -22,10 +22,10 @@ Supervised learning uses labeled data to train models for predictions. It is div
 
 ### 2. Regression
 
-- **Linear Regression** – [Linear Regression Repo] 
-- **Ridge Regression** – [Ridge Regression Repo]
-- **Lasso Regression** – [Lasso Regression Repo]
-- **Elastic Net Regression** – [Elastic Net Repo]
+- **Linear Regression** – [Linear Regression Repo](https://github.com/madhumitha781/house-rent-prediction) 
+- **Ridge Regression** – [Ridge Regression Repo](https://github.com/madhumitha781/house-rent-prediction)
+- **Lasso Regression** – [Lasso Regression Repo](https://github.com/madhumitha781/house-rent-prediction)
+- **Elastic Net Regression** – [Elastic Net Repo](https://github.com/madhumitha781/house-rent-prediction)
 
 ---
 
@@ -35,7 +35,7 @@ Unsupervised learning uses **unlabeled data** to find patterns and relationships
 
 ### 1. Clustering
 
-- **K-Means** – [K-Means Repo]  
+- **K-Means** – [K-Means Repo](https://github.com/madhumitha781/airline-cost-and-time-priction-app) 
 - **Hierarchical Clustering** – [Hierarchical Clustering Repo]
 - **DBSCAN** – [DBSCAN Repo]
 
